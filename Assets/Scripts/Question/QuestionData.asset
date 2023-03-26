@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c568d74f2df5424e9815a82ba532fb8, type: 3}
+  m_Name: QuestionData
+  m_EditorClassIdentifier: 
+  questions:
+  - question: "\xBFQui\xE9n es el autor de la frase \"Pienso, luego existo\"?"
+    correctAnswer: Descartes
+    options:
+    - "Plat\xF3n"
+    - Galileo Galilei
+    - "S\xF3crates"
+  - question: "\xBFCu\xE1l es el pa\xEDs m\xE1s grande y el m\xE1s peque\xF1o del
+      mundo?"
+    correctAnswer: Rusia y Vaticano
+    options:
+    - China y Nauru
+    - "Canad\xE1 y M\xF3naco"
+    - India y San Marino
+  - question: "\xBFCu\xE1l es el libro m\xE1s vendido en el mundo despu\xE9s de la
+      Biblia?"
+    correctAnswer: Don Quijote de la Mancha
+    options:
+    - "El Se\xF1or de los Anillos "
+    - El Principito
+    - "Cien a\xF1os de Soledad"
+  - question: "\xBFCu\xE1ntos decimales tiene el n\xFAmero pi \u03C0?"
+    correctAnswer: Infinitos
+    options:
+    - Dos
+    - Cien
+    - Mil
+  - question: "La sal com\xFAn est\xE1 formada por dos elementos, \xBFcu\xE1les son?"
+    correctAnswer: Sodio y cloro
+    options:
+    - Sodio y potasio
+    - Sodio y carbono
+    - Potasio y cloro
+  - question: "\xBFCu\xE1ntos jugadores por equipo participan en un partido de voleibol?"
+    correctAnswer: 6 jugadores
+    options:
+    - 5 jugadores
+    - 3 jugadores
+    - 4 jugadores
+  - question: "\xBFCu\xE1nto tiempo tarda la luz del Sol en llegar a la Tierra?"
+    correctAnswer: 8 minutos
+    options:
+    - 12 minutos
+    - "1 d\xEDa"
+    - 12 horas
+  - question: "\xBFEn qu\xE9 periodo de la prehistoria fue descubierto el fuego?"
+    correctAnswer: "Paleol\xEDtico"
+    options:
+    - "Neol\xEDtico"
+    - Edad de piedra
+    - Edad media
+  - question: "\xBFA qui\xE9n se le atribuye la frase \"Solo s\xE9 que no s\xE9 nada\"?"
+    correctAnswer: "S\xF3crates"
+    options:
+    - "Arist\xF3teles"
+    - "S\xF3focles"
+    - "Salom\xF3n"
+  - question: "\xBFCu\xE1l es la monta\xF1a m\xE1s alta del continente americano?"
+    correctAnswer: Aconcagua
+    options:
+    - Monte Everest
+    - Pico Neblina
+    - "Pico Bol\xEDvar"
+  - question: "\xBFQui\xE9n es el autor de \"El Pr\xEDncipe\"?"
+    correctAnswer: "Nicol\xE1s Maquiavelo"
+    options:
+    - Charles de Gales
+    - Friedrich Nietzche
+    - Dante Allighieri
+  - question: "\xBFCu\xE1l de estos pa\xEDses se extiende entre dos continentes?"
+    correctAnswer: Rusia
+    options:
+    - Tanzania
+    - Groenlandia
+    - Egipto
+  - question: "\xBFCu\xE1l es el animal terrestre m\xE1s grande en la actualidad?"
+    correctAnswer: Elefante africano
+    options:
+    - Jirafa
+    - Diplodocus
+    - Ballena azul
+  - question: "\xBFCu\xE1les son los nombres de los tres reyes magos?"
+    correctAnswer: Gaspar, Melchor y Baltazar
+    options:
+    - Gaspar, Nicolas y Nataniel
+    - Simon, Judas y Mateo
+    - "Abraham, No\xE9 y Moises"
+  - question: "\xBFQui\xE9n fue el primer hombre en pisar la Luna?"
+    correctAnswer: Neil Armstrong
+    options:
+    - Yuri Gagarin
+    - Buzz Aldrin
+    - Charles Conrad
+  - question: "\xBFCu\xE1l es el cromosoma que determina el sexo masculino?"
+    correctAnswer: El cromosoma Y
+    options:
+    - El cromosoma V
+    - El cromosoma X
+    - El cromosoma Z
